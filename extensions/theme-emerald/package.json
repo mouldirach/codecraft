@@ -1,0 +1,22 @@
+{
+	"name": "theme-emerald",
+	"displayName": "CodeCraft Emerald Theme",
+	"description": "Beautiful emerald green theme for CodeCraft",
+	"version": "1.0.0",
+	"publisher": "codecraft",
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "CodeCraft Emerald",
+				"uiTheme": "vs-dark",
+				"path": "./themes/emerald-color-theme.json"
+			}
+		]
+	}
+}
