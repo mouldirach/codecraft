@@ -223,7 +223,10 @@
     "node-gyp-build": "4.8.1",
     "kerberos@2.1.1": {
       "node-addon-api": "7.1.0"
-    }
+    },
+    "@electron/get": "3.1.0",
+    "@vscode/ripgrep": "1.15.6",
+    "electron": "30.0.6"
   },
   "repository": {
     "type": "git",
